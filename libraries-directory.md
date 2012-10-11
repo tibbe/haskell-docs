@@ -6,11 +6,11 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 
 ## Testing
 
+ * [QuickCheck][QuickCheck]: random testing of program properties (preferred method)
  * [HUnit][HUnit]: a unit testing framework for Haskell, inspired by the JUnit tool for Java
- * [QuickCheck][QuickCheck]: random testing of program properties
  * [test-framework][test-framework]: framework for grouping, running, and displaying the output of tests
- * [test-framework-hunit][test-framework-hunit]: test-framework test runner for HUnit
  * [test-framework-quickcheck2][test-framework-quickcheck2]: test-framework test runner for QuickCheck
+ * [test-framework-hunit][test-framework-hunit]: test-framework test runner for HUnit
 
 ## Serialization
 
