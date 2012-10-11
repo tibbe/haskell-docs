@@ -4,40 +4,6 @@
 
 This is a categorized and annotated directory of available Haskell libraries. This directory is **not comprehensive and highly opinionated**.
 
-## Testing
-
- * [QuickCheck][QuickCheck]: random testing of program properties (preferred method)
- * [HUnit][HUnit]: a unit testing framework for Haskell, inspired by the JUnit tool for Java
- * [test-framework][test-framework]: framework for grouping, running, and displaying the output of tests
- * [test-framework-quickcheck2][test-framework-quickcheck2]: test-framework test runner for QuickCheck
- * [test-framework-hunit][test-framework-hunit]: test-framework test runner for HUnit
-
-## Serialization
-
-### Binary Formats
-
- * [binary][binary]: parser and generate arbitrary byte formats
-
-### CSV
-
- * [cassava][cassava]: convert CSV files to/from Haskell data types
-
-### JSON
-
- * [aeson][aeson]: parser/serializer to/from Haskell data types
-
-### Text Formats
-
- * [attoparsec][attoparsec]: parser combinator library for creating parser for text formats or mixed binary/text formats, such as HTTP.
-
-## Networking
-
- * [network][network]: socket and low-level networking support.
-
-## Monitoring
-
- * [ekg][ekg]: remote monitoring over HTTP
-
 ## Data Structures and Algorithms
 
 ### Unicode Strings
@@ -61,6 +27,40 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 
  * [vector][vector]: boxed and unboxed vectors
  * [vector-algorithms][vector-algorithms]: several different sort algorithms for vectors
+
+## Monitoring
+
+ * [ekg][ekg]: remote monitoring over HTTP
+
+## Networking
+
+ * [network][network]: socket and low-level networking support.
+
+## Serialization
+
+### Binary Formats
+
+ * [binary][binary]: parser and generate arbitrary byte formats
+
+### CSV
+
+ * [cassava][cassava]: convert CSV files to/from Haskell data types
+
+### JSON
+
+ * [aeson][aeson]: parser/serializer to/from Haskell data types
+
+### Text Formats
+
+ * [attoparsec][attoparsec]: parser combinator library for creating parser for text formats or mixed binary/text formats, such as HTTP.
+
+## Testing
+
+ * [QuickCheck][QuickCheck]: random testing of program properties (preferred method)
+ * [HUnit][HUnit]: a unit testing framework for Haskell, inspired by the JUnit tool for Java
+ * [test-framework][test-framework]: framework for grouping, running, and displaying the output of tests
+ * [test-framework-quickcheck2][test-framework-quickcheck2]: test-framework test runner for QuickCheck
+ * [test-framework-hunit][test-framework-hunit]: test-framework test runner for HUnit
 
 [HUnit]: http://hackage.haskell.org/package/HUnit
 [QuickCheck]: http://hackage.haskell.org/package/QuichCheck
