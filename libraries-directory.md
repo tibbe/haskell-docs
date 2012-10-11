@@ -4,6 +4,10 @@
 
 This is a categorized and annotated directory of available Haskell libraries. This directory is **not comprehensive and highly opinionated**.
 
+## Benchmarking
+
+ * [criterion][criterion]: statistically accurate benchmarking
+
 ## Data Structures and Algorithms
 
 ### Unicode Strings
@@ -70,6 +74,7 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 [bytestring]: http://hackage.haskell.org/package/bytestring
 [cassava]: http://hackage.haskell.org/package/cassava
 [containers]: http://hackage.haskell.org/package/containers
+[criterion]: http://hackage.haskell.org/package/criterion
 [ekg]: http://hackage.haskell.org/package/ekg
 [hashable]: http://hackage.haskell.org/package/hashable
 [network]: http://hackage.haskell.org/package/network
