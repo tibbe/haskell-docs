@@ -8,6 +8,16 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 
  * [criterion][criterion]: statistically accurate benchmarking
 
+## Data Stores
+
+### Relational Databases
+
+ * [mysql-simple][mysql-simple]: a mid-level client library for the MySQL database
+
+### Riak
+
+ * [riak][riak]: automated storage and conflict resolution
+
 ## Data Structures and Algorithms
 
 ### Unicode Strings
@@ -82,7 +92,9 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 [ekg]: http://hackage.haskell.org/package/ekg
 [hashable]: http://hackage.haskell.org/package/hashable
 [mtl]: http://hackage.haskell.org/package/mtl
+[mysql-simple]: http://hackage.haskell.org/package/mysql-simple
 [network]: http://hackage.haskell.org/package/network
+[riak]: http://hackage.haskell.org/package/riak
 [test-framework-hunit]: http://hackage.haskell.org/package/test-framework-hunit
 [test-framework-quickcheck2]: http://hackage.haskell.org/package/test-framework-quickcheck2
 [test-framework]: http://hackage.haskell.org/package/test-framework
