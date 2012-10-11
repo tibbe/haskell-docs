@@ -32,6 +32,10 @@ This is a categorized and annotated directory of available Haskell libraries. Th
  * [vector][vector]: boxed and unboxed vectors
  * [vector-algorithms][vector-algorithms]: several different sort algorithms for vectors
 
+## Monads
+
+ * [mtl][mtl]: monads and monad transformers
+
 ## Monitoring
 
  * [ekg][ekg]: remote monitoring over HTTP
@@ -77,6 +81,7 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 [criterion]: http://hackage.haskell.org/package/criterion
 [ekg]: http://hackage.haskell.org/package/ekg
 [hashable]: http://hackage.haskell.org/package/hashable
+[mtl]: http://hackage.haskell.org/package/mtl
 [network]: http://hackage.haskell.org/package/network
 [test-framework-hunit]: http://hackage.haskell.org/package/test-framework-hunit
 [test-framework-quickcheck2]: http://hackage.haskell.org/package/test-framework-quickcheck2
