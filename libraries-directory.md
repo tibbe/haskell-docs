@@ -8,6 +8,10 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 
  * [criterion][criterion]: statistically accurate benchmarking
 
+## Concurrency and Parallelism
+
+ * [async][async]: higher-level interface over threads, providing e.g. futures
+
 ## Data Stores
 
 ### Relational Databases
@@ -83,6 +87,7 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 [HUnit]: http://hackage.haskell.org/package/HUnit
 [QuickCheck]: http://hackage.haskell.org/package/QuichCheck
 [aeson]: http://hackage.haskell.org/package/aeson
+[async]: http://hackage.haskell.org/package/async
 [attoparsec]: http://hackage.haskell.org/package/attoparsec
 [binary]: http://hackage.haskell.org/package/binary
 [bytestring]: http://hackage.haskell.org/package/bytestring
