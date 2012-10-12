@@ -27,7 +27,8 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 ### Unicode Strings
 
  * [text][text]: representation for Unicode strings, including I/O support.
-
+ * [text-icu][text-icu]: ICU support
+ 
 ### Byte Strings
 
  * [bytestring][bytestring]: representation for byte strings, including functions for passing byte strings to C code and I/O support.
@@ -45,6 +46,11 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 
  * [vector][vector]: boxed and unboxed vectors
  * [vector-algorithms][vector-algorithms]: several different sort algorithms for vectors
+
+## Math
+
+ * [mwc-random][mwc-random]: fast random number generation
+ * [statistics][statistics]: comprehensive statistics library
 
 ## Monads
 
@@ -75,6 +81,8 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 ### Text Formats
 
  * [attoparsec][attoparsec]: parser combinator library for creating parser for text formats or mixed binary/text formats, such as HTTP.
+ * base16: base16 encoding/decoding
+ * base64: base64 encoding/decoding
 
 ## Testing
 
@@ -97,13 +105,16 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 [HUnit]: http://hackage.haskell.org/package/HUnit
 [mtl]: http://hackage.haskell.org/package/mtl
 [mysql-simple]: http://hackage.haskell.org/package/mysql-simple
+[mwc-random]: http://hackage.haskell.org/package/mwc-random
 [network]: http://hackage.haskell.org/package/network
 [QuickCheck]: http://hackage.haskell.org/package/QuichCheck
 [riak]: http://hackage.haskell.org/package/riak
+[statistics]: http://hackage.haskell.org/package/statistics
 [test-framework-hunit]: http://hackage.haskell.org/package/test-framework-hunit
 [test-framework-quickcheck2]: http://hackage.haskell.org/package/test-framework-quickcheck2
 [test-framework]: http://hackage.haskell.org/package/test-framework
 [text]: http://hackage.haskell.org/package/text
+[text-icu]: http://hackage.haskell.org/package/text-icu
 [unordered-containers]: http://hackage.haskell.org/package/unordered-containers
 [vector-algorithms]: http://hackage.haskell.org/package/vector-algorithms
 [vector]: http://hackage.haskell.org/package/vector
