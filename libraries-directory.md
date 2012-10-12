@@ -84,8 +84,6 @@ This is a categorized and annotated directory of available Haskell libraries. Th
  * [test-framework-quickcheck2][test-framework-quickcheck2]: test-framework test runner for QuickCheck
  * [test-framework-hunit][test-framework-hunit]: test-framework test runner for HUnit
 
-[HUnit]: http://hackage.haskell.org/package/HUnit
-[QuickCheck]: http://hackage.haskell.org/package/QuichCheck
 [aeson]: http://hackage.haskell.org/package/aeson
 [async]: http://hackage.haskell.org/package/async
 [attoparsec]: http://hackage.haskell.org/package/attoparsec
@@ -96,9 +94,11 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 [criterion]: http://hackage.haskell.org/package/criterion
 [ekg]: http://hackage.haskell.org/package/ekg
 [hashable]: http://hackage.haskell.org/package/hashable
+[HUnit]: http://hackage.haskell.org/package/HUnit
 [mtl]: http://hackage.haskell.org/package/mtl
 [mysql-simple]: http://hackage.haskell.org/package/mysql-simple
 [network]: http://hackage.haskell.org/package/network
+[QuickCheck]: http://hackage.haskell.org/package/QuichCheck
 [riak]: http://hackage.haskell.org/package/riak
 [test-framework-hunit]: http://hackage.haskell.org/package/test-framework-hunit
 [test-framework-quickcheck2]: http://hackage.haskell.org/package/test-framework-quickcheck2
