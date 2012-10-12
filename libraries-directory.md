@@ -82,7 +82,7 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 
  * [attoparsec][attoparsec]: parser combinator library for creating parser for text formats or mixed binary/text formats, such as HTTP.
  * [base16][base16]: base16 encoding/decoding
- * [base64]base64: base64 encoding/decoding
+ * [base64][base64]: base64 encoding/decoding
 
 ## Testing
 
