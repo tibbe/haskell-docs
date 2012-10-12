@@ -81,8 +81,8 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 ### Text Formats
 
  * [attoparsec][attoparsec]: parser combinator library for creating parser for text formats or mixed binary/text formats, such as HTTP.
- * [base16][base16]: base16 encoding/decoding
- * [base64][base64]: base64 encoding/decoding
+ * [base16-bytestring][base16-bytestring]: base16 encoding/decoding
+ * [base64-bytestring][base64-bytestring]: base64 encoding/decoding
 
 ## Testing
 
@@ -95,8 +95,8 @@ This is a categorized and annotated directory of available Haskell libraries. Th
 [aeson]: http://hackage.haskell.org/package/aeson
 [async]: http://hackage.haskell.org/package/async
 [attoparsec]: http://hackage.haskell.org/package/attoparsec
-[base16]: http://hackage.haskell.org/package/base16
-[base64]: http://hackage.haskell.org/package/base64
+[base16-bytestring]: http://hackage.haskell.org/package/base16-bytestring
+[base64-bytestring]: http://hackage.haskell.org/package/base64-bytestring
 [binary]: http://hackage.haskell.org/package/binary
 [bytestring]: http://hackage.haskell.org/package/bytestring
 [cassava]: http://hackage.haskell.org/package/cassava
